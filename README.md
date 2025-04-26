@@ -26,4 +26,4 @@ Este projeto traz a experiência de compras da Shopee diretamente para o seu ter
 - JavaScript
 
 ## ✨ Sobre o projeto
-Projeto desenvolvido como parte do desafio da Formação Node.js da DIO. Inspirado na experiência de compras do site Shopee.
+Projeto desenvolvido por mim como parte do desafio da Formação Node.js da DIO. Inspirado na experiência de compras do site Shopee.
