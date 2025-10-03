@@ -1,7 +1,7 @@
 
 const readline = require('readline');
-const Cart = require('./src/cart');
-const products = require('./src/store');
+const Cart = require('./cart');
+const products = require('./store');
 
 const rl = readline.createInterface({
     input: process.stdin,
